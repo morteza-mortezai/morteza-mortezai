@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morteza-mortezai 
 - 👀 I’m FrontEnd Developer ,interested in VueJs and NuxtJs
-- 🌱 I’m currently learning headlessUI , tailwindCss
+- 🌱 I’m currently learning writting component/unit test
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me +989362532122
 
