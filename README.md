@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morteza-mortezai 
-- 👀 Full Stack Developer with Expertise in JavaScript, TypeScript, VueJS, NodeJS, and Microservices
+- 👀 Full Stack Developer with Expertise in JavaScript, TypeScript, VueJS and NodeJS
 - 🌱 I’m currently learning Nestjs/architecture
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me +989362532122
