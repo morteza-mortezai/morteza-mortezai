@@ -1,18 +1,34 @@
-- 👋 Hi, I’m @morteza-mortezai 
-- 👀 Back-end engineer with Expertise in TypeScript and NodeJS
-- 🌱 I’m currently learning Nestjs/architecture
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me +989362532122
+# 👋 Hi, I'm Morteza Mortezai
 
-Description:
-Hello, I'm a Full Stack Developer with expertise in a wide range of technologies, including NodeJS, NestJS, JavaScript, TypeScript, VueJS, ExpressJS, MongoDB, MySQL, and microservices. I have a strong understanding of clean architecture and am experienced in writing unit tests using Jest.
+**Backend Software Engineer | Node.js · TypeScript · NestJS**
 
-With a passion for NestJS and VueJS , I am constantly learning and improving my skills to stay up-to-date with the latest trends and best practices in the industry. I am also interested in collaborating on open source projects and contributing to the developer community.
+I'm a backend-focused software engineer with **6+ years of experience** designing and developing production systems, primarily with **Node.js, TypeScript, and NestJS**.
 
-I pride myself on delivering high-quality code that meets the needs of my clients and end-users.
+My main focus is building **scalable backend systems, REST APIs, multi-tenant SaaS platforms, and business-oriented applications** from the ground up. I've worked on systems such as ordering platforms, online stores, digital catalogs, and other SaaS products, with an emphasis on clean architecture, maintainability, performance, and reliable production deployments.
 
-If you're looking for a Full Stack Developer with expertise in VueJS, NestJS, and microservices, please feel free to reach out to me. I'm always open to new opportunities and challenges.
-<!---
-morteza-mortezai/morteza-mortezai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Main Technologies
+
+* **Backend:** Node.js, TypeScript, NestJS, Express.js
+* **Databases:** PostgreSQL, MongoDB, MySQL
+* **ORM:** MikroORM
+* **Architecture:** REST APIs, Multi-Tenant SaaS, Microservices, Clean Architecture
+* **Testing:** Jest, Unit Testing
+* **DevOps:** Docker, Linux, Nginx, CI/CD, Coolify
+* **Frontend:** Vue.js, Nuxt.js
+
+I also have solid frontend experience with **Vue.js and Nuxt.js**, including designing and developing admin panels and dashboards. However, my primary area of expertise and interest is **backend engineering**.
+
+I'm continuously improving my knowledge of **software architecture, database design, scalability, performance optimization, and distributed systems**, while building and maintaining real-world production applications.
+
+### 🌱 Currently Focused On
+
+Deepening my knowledge of backend architecture, database internals, ORM design, system design, scalability, and building robust production systems with TypeScript and NestJS.
+
+### 🤝 Open To
+
+I'm interested in collaborating on **open-source projects**, backend systems, developer tools, and challenging engineering problems.
+
+### 📫 Contact
+
+📱 +98 936 253 2122
+💻 GitHub: [@morteza-mortezai]
